@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "575 West"
+title                    : "Evening In The Time Of West"
 title_separator          : "-"
-name                     : "Will Estes"
+name                     : "Living Stone Trust"
 description              : "Better versioning of the self"
 url                      : "https://westes.github.io"
 baseurl                  : ""
