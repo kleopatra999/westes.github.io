@@ -83,13 +83,14 @@ author:
   location         : ""
   email            :
   uri              :
-  bitbucket        :
+  bitbucket        : "west575"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
   github           : "westes"
+  gitlab: "west575"
   google_plus      :
   keybase          :
   instagram        :
@@ -97,7 +98,7 @@ author:
   linkedin         : "willestes"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : 7002984/will-estes
   steam            :
   tumblr           :
   twitter          :
